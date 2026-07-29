@@ -1,7 +1,7 @@
 # Design-a-D-Flip-Flop-using-Transistors
 
-**Duration:** Jan 2025 – Mar 2025
-**Domain:** Digital Electronics / VLSI Fundamentals /Analog Electronics 
+**Duration:** Jan 2025 – Mar 2025                                                                                                                      .
+**Domain:** Digital Electronics / VLSI Fundamentals /Analog Electronics                                                                                . 
 **Technology:** Discrete BJT Transistors
 
 ---
