@@ -4,7 +4,7 @@
 | **Project Details** | |
 |---------------------|---------------------------------------------|
 | **Duration** | Jan 2025 – Mar 2025 |
-| **Domain** | Digital Electronics / VLSI Fundamentals / Analog Electronics |
+| **Domain** | Digital Electronics /  Analog Electronics |
 | **Technology** | Discrete BJT Transistors |
 ---
 
